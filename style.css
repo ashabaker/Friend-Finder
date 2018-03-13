@@ -1,0 +1,82 @@
+.masthead-nav {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.lead {
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 15px;
+}
+
+.cover-heading {
+    font-size: 65px;
+    padding-bottom: 30px;
+}
+
+.home-body {
+    height: 100%;
+    background: #4776E6;
+    background: -webkit-linear-gradient(to left, #4776E6, #8E54E9);
+    background: linear-gradient(to left, #4776E6, #8E54E9);
+
+}
+
+.main-survey {
+    color: #FFF;
+}
+
+
+
+
+.credit-body {
+    background: radial-gradient(circle farthest-corner at left top, #F4C789 0, #ffa376 28%, #d26578 52%, #AA076B 79%, #37217F 100%);
+}
+
+.credit-heading {
+    font-size: 51px;
+    padding-bottom: 220px;
+    margin: auto;
+}
+
+.credit-list {
+    font-size: 35px;
+    padding-bottom: 100px;
+}
+
+
+
+input,
+select {
+    font-family: 'Roboto', sans-serif;
+    color: #5D00BB;
+}
+
+.cover-survey {
+    font-size: 65px;
+    margin-top: 50px;
+}
+
+.site-wrapper-inner .masthead {
+    width: 100;
+}
+
+.survey-body .site-wrapper-inner {
+    background: radial-gradient(circle farthest-corner at right top, #ffd08a 0, #ffa376 28%, #d26578 52%, #AA076B 79%, #241668 100%);
+}
+
+.btn.btn-primary.btn-lg.btn-block {
+    background: #FFB27D;
+    border: #F9E396;
+    color: #3B1195;
+}
+
+.modal-content {
+    background: #ECE9E6;
+    background: -webkit-linear-gradient(to left, #EAEEF1, #faf8ff);
+    background: linear-gradient(to left, #EAEEF1, #faf8ff);
+    color: #122A52;
+}
+
+.survey-body,
+.modal-open {
+    text-shadow: none;
+}
